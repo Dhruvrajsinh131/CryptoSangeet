@@ -8,6 +8,7 @@ return(
   <>
   <div className="container">
      <Link to="/album" className="link">Album Page</Link>
+     Hello peter
   </div>
   </>
 )
