@@ -1,4 +1,11 @@
 export const library = [
+  {
+    title:"Glory Of God",
+    image:"https://ipfs.moralis.io:2053/ipfs/QmWuDDFHRMo5uFdoLHDPpimAkv2dAJj8ETt2YzjLENRkv3/media/2",
+    contract:"0x0a069559013ab5cfb2e2ced4a6ba65b069944fa4"
+
+  }
+   ,
     {
       title: "Hyperspace",
       image:
